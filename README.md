@@ -22,7 +22,7 @@ Support de cours sur l'utilisation de Git: [https://cours-web.ch/git/](https://c
 ***
 - Jour 11 (29 avril) - JavaScript
 - Jour 12 (6 mai) - JavaScript
-- **Semaine de workshops** (11-15 mai) - avec Elisa Larvego, photographe 📷
+- **Semaine de workshops** (11-15 mai) - avec [Elisa Larvego](http://www.vego.ch/), photographe 📷
 - Jour 13 (20 mai) - JavaScript
 - Jour 14 (27 mai) - JavaScript
 - Jour 15 (3 juin) - **Evaluation JavaScript** 🧠📝
