@@ -6,7 +6,7 @@ Support de cours sur l'utilisation de Git: [https://cours-web.ch/git/](https://c
 
 ## Contenus des leçons
 
-- Jour 01 (29 janvier) - [Présentations](J01-presentations)
+- Jour 01 (29 janvier) - [Présentations](J01-presentations), création de comptes Github.
 - Jour 02 (5 février) - [Exploration de Github](J02-premiers-pas-Github)
 - Jour 03 (12 février) - Les élèves créent leur premier repo Github
 - Relâches
