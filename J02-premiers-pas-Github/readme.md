@@ -1,5 +1,7 @@
 # Jour 02 : Introduction à Github
 
+Cette leçon du 5 février 2020 a fait l'objet d'un enregistrement vidéo, que vous trouvez ici: [https://www.youtube.com/watch?v=86AL9P1_sJE](https://www.youtube.com/watch?v=86AL9P1_sJE)
+
 Nous avons fait les choses suivantes:
 
 1. Chaque élève a obtenu une fiche des termes Git, avec la consigne de visiter un Repository Git ([celui du projet Bootstrap](https://github.com/twbs/bootstrap)), et d'explorer l'interface.
@@ -24,3 +26,4 @@ Nous avons fait les choses suivantes:
 ## Liens utiles
 
 - Le [support de cours Git](https://cours-web.ch/git/)
+- Après la leçon, nous avons assisté à une séance d'information sur les événements et workshops des prochains mois. [Voir la liste des événements](https://outils.eracom-pedagogique.ch/evenements-2020/).
