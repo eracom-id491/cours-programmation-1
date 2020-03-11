@@ -22,7 +22,7 @@ Chaque critère est noté entre 0 - 3 points.
 | 1. Readme   | Pas de readme       | Readme avec contenu  |  Utilise syntaxe MarkDown |   |
 |  2. GH Pages  | Pas activé GH Pages | Activé |  Indiqué URL correcte  | index.html fonctionne  |
 |  3. Issues  | Pas de Issue créée  |  Issue créée | Bien rédigé  | A assigné une pesonne et un label, puis fermé après les correctifs  |
-| 4. Modifier les fichiers   | Pas de correctif HTML  |  Modifs, mais pas corrigé | Image focntionne  |  Crédits en pied de page corrigés |
+| 4. Modifier les fichiers   | Pas de correctif HTML  |  Modifs, mais pas corrigé | Correctif partiel  |  Correctif complet |
 | 5. Faire un commit   | Pas de commit  |  Commit avec message automatique | Message pertinent |  Message très pertinent et détaillé |
 |  6. Licence  | Pas de choix de licence |  Mal argumenté | Bien argumenté  | Très bien argumenté  |
 
