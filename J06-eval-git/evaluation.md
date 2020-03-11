@@ -2,7 +2,7 @@
 
 Pendant les quatre dernières leçons (5 février - 4 mars) nous avons exploré le fonctionnement de Git et GitHub. Cette évaluation vise à vérifier que vous avez bien assimilié les principes de cet outil.
 
-Voici les opérations que vous devriez être capable d'effectuer:
+Voici les opérations que vous êtes capable d'effectuer:
 
 - Créer un répository
 - Créer un README clair et utile
@@ -39,4 +39,10 @@ Chaque critère est noté entre 0 - 3 points.
 
 ## Démarrer l'évaluation
 
-Vous allez démarrer en cliquant ce lien. Cela va créer un projet Github. Vous lirez le README pour découvrir les tâches à effectuer.
+Vous allez démarrer en cliquant ce lien. Cela va créer un projet Github. 
+
+Vous lirez le fichier demarrage.txt pour découvrir les tâches à effectuer.
+
+## Deadline pour le rendu
+
+Lundi 16 février, 23:00.
