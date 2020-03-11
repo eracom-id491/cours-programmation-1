@@ -6,14 +6,14 @@ Support de cours sur l'utilisation de Git: [https://cours-web.ch/git/](https://c
 
 ## Contenus des leçons
 
-- Jour 01 (29 janvier) - [Présentations](J01-presentations), création de comptes Github.
-- Jour 02 (5 février) - [Exploration de Github](J02-premiers-pas-Github)
-- Jour 03 (12 février) - Les élèves créent leur premier repo Github
+- [Jour 01](J01-presentations) (29 janvier) - [Présentations](J01-presentations), création de comptes Github.
+- [Jour 02](J02-premiers-pas-Github) (5 février) - [Exploration de Github](J02-premiers-pas-Github)
+- [Jour 03](J03-premier-repo-Github) (12 février) - Les élèves créent leur [premier repo Github](J03-premier-repo-Github)
 - Relâches
 ***
-- Jour 04 (26 février) - Collaboration, création des redirections ([voir liste](https://github.com/eracom-id491/liste_site_citations#readme)).
-- Jour 05 (4 mars) - Correctifs des redirections. Synchroniser (Github Desktop).
-- Jour 06 (11 mars) - **Evaluation Git** 🧠📝
+- [Jour 04](J04-collaboration) (26 février) - Collaboration, création des redirections ([voir liste](https://github.com/eracom-id491/liste_site_citations#readme)).
+- [Jour 05](J05) (4 mars) - Correctifs des redirections. Synchroniser (Github Desktop). Test de redisposition des tables. Brainstorming sur le jeu hypertexte.
+- Jour 06 (11 mars) - **[Evaluation Git](J06-eval-git)** 🧠📝
 - Jour 07 (18 mars) - CSS #1
 - Jour 08 (25 mars) - CSS #2
 - Jour 09 (1er avril) - CSS #3
