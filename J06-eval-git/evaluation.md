@@ -39,7 +39,10 @@ Chaque critère est noté entre 0 - 3 points.
 
 ## Démarrer l'évaluation
 
-Vous allez démarrer en cliquant ce lien. Cela va créer un projet Github. 
+Vous allez démarrer en cliquant ce lien: 
+[https://classroom.github.com/a/7QsXV9dY](https://classroom.github.com/a/7QsXV9dY)
+
+Cela va créer un projet Github. 
 
 Vous lirez le fichier demarrage.txt pour découvrir les tâches à effectuer.
 
