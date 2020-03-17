@@ -48,4 +48,6 @@ Vous lirez le fichier demarrage.txt pour découvrir les tâches à effectuer.
 
 ## Deadline pour le rendu
 
-Lundi 16 février, 23:00.
+Lundi 23 février.
+<del>Lundi 16 février, 23:00.</del>
+
