@@ -4,7 +4,7 @@ Chers élèves de classe ID491,
 
 J'espère que vous allez bien, et que vous êtes en bonne santé ainsi que votre entourage.
 
-Vos enseignants, affectés comme vous par la situation, sont en train de mettre en place de nouveaux fonctionnements, afin d'assurer la continuité de vos cours dans les meilleures conditions possibles.
+Vos enseignants sont en train de mettre en place de nouveaux fonctionnements, afin d'assurer la continuité de vos cours dans les meilleures conditions possibles.
 
 Je vous propose pour ce mercredi un moment de mise en commun, via une application de téléconférence, Zoom.  
 Collaborer avec Git c'est bien, mais il est primordial que nous puissions communiquer.
