@@ -2,7 +2,7 @@
 
 Pendant les trois prochains cours (25 mars, 1er avril, 8 avril), nous allons approfondir vos connaissances du langage CSS.
 
-L'objet de ce premier cours: **Les sélecteurs CSS**
+L'objet de ce premier cours du mercredi 25 mars: **Les sélecteurs CSS**
 
 Vous avez déjà abordé ce sujet dans le cours de M. Cater, et vous pouvez vous référer au support de son cours:
 
