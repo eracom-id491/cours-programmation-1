@@ -4,7 +4,7 @@ Pendant les trois prochains cours (25 mars, 1er avril, 8 avril), nous allons app
 
 L'objet de ce premier cours du mercredi 25 mars: **Les sélecteurs CSS**
 
-Vous avez déjà abordé ce sujet dans le cours de M. Cater, et vous pouvez vous référer au support de son cours:
+Vous avez déjà abordé ce sujet dans le cours de M. Cater, et vous pouvez vous référer [au support de son cours](https://github.com/eracom/cours-cater-multimedia-design-ecran-2019-20):
 
 - S05_Start > HTML-CSS-syntax-diagram.pdf
 - S06_Syntax > CSS-properties.pdf
