@@ -24,12 +24,13 @@ Support de cours sur l'utilisation de Git: [https://cours-web.ch/git/](https://c
 
 ---
 
-- Jour 11 (29 avril) - **Evaluation CSS** 🧠📝
-- Jour 12 (6 mai) - JavaScript #1
-- **Semaine de workshops** (11-15 mai) - avec [Elisa Larvego](http://www.vego.ch/), photographe 📷
-- Jour 13 (20 mai) - JavaScript #2
-- Jour 14 (27 mai) - JavaScript #3
-- Jour 15 (3 juin) - **Evaluation JavaScript** 🧠📝
-- Jour 16 (10 juin) - Révisions
-- Jour 17 (17 juin) - **Examen intermédiaire** 🧠🔥
-- Semaine transversale (22-26 juin)
+- Jour 11 (29 avril) - Travail sur CineChexbres
+- Jour 12 (6 mai) - "Ma petite épicerie", création de site avec Bootstrap ([starter code](https://github.com/eracom-id491/ma-petite-epicerie))
+- Jour 14 (13 mai) - Lancement du [blog WordPress](https://eracom-pedagogique.ch/ID491/)
+- Jour 14 (20 mai) - Travail sur [l'aventure hypertexte](https://github.com/eracom-id491/Histoire-de-la-vie)
+- Jour 15 (27 mai) - Travail autour de [WordPress](https://eracom-pedagogique.ch/ID491/)
+- Jour 16 (3 juin) - Webfonts
+- Jour 17 (10 juin) - CSS Bling
+- Jour 18 (17 juin) - CSS Animation
+- Semaine transversale (22-26 juin) - workshop avec [Elisa Larvego](http://www.vego.ch/), photographe 📷
+- Jour 19 - à définir
