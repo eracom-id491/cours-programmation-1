@@ -7,7 +7,7 @@
 
 ## Ordre du jour:
 
-### 11h: Introduction ([voir le PDF](Voir le PDF)), portant sur: 
+### 11h: Introduction ([voir le PDF](Typographie-2020.pdf)), portant sur: 
 
 - l'histoire de l'écriture et de la typographie moderne
 - classifiation Vox-ATypI
