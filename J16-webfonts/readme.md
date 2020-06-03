@@ -36,6 +36,7 @@ En trouver davantage dans le support de cours:
 4. Rédigez un petit descriptif (sans utiliser le nom de la fonte): son style, ce qu'elle exprime, ce qu'elle vous évoque.
 
 Jeu d'interpétation:
+
 5. A tour de rôle, postez votre descriptif dans Discord.
 6. Les autres essayent de deviner de quelle fonte il s'agit.
 7. La première personne qui trouve la bonne réponse marque un point.
