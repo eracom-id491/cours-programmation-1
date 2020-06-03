@@ -1,6 +1,7 @@
 # Jour 02 : Introduction à Github
 
-Cette leçon du 5 février 2020 a fait l'objet d'un enregistrement vidéo, que vous trouvez ici: [https://www.youtube.com/watch?v=86AL9P1_sJE](https://www.youtube.com/watch?v=86AL9P1_sJE)
+Cette leçon du 5 février 2020 a fait l'objet d'un enregistrement vidéo, que vous trouvez ici:  
+[https://www.youtube.com/watch?v=86AL9P1_sJE](https://www.youtube.com/watch?v=86AL9P1_sJE)
 
 Nous avons fait les choses suivantes:
 

@@ -29,7 +29,7 @@ Support de cours sur l'utilisation de Git: [https://cours-web.ch/git/](https://c
 - Jour 14 (13 mai) - Lancement du [blog WordPress](https://eracom-pedagogique.ch/ID491/)
 - Jour 14 (20 mai) - Travail sur [l'aventure hypertexte](https://github.com/eracom-id491/Histoire-de-la-vie)
 - Jour 15 (27 mai) - Travail autour de WordPress
-- Jour 16 (3 juin) - [Webfonts](J16-webfonts)
+- [Jour 16](J16-webfonts) (3 juin) - [Webfonts](J16-webfonts)
 - Jour 17 (10 juin) - CSS Bling
 - Jour 18 (17 juin) - CSS Animation
 - Semaine transversale (22-26 juin) - workshop avec [Elisa Larvego](http://www.vego.ch/), photographe 📷

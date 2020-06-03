@@ -32,5 +32,5 @@ La durée sera de 11h30 à 12h.
 
 Ce lien de réunion restera en permanence à disposition pour votre classe.
 
-PS: le rendu de l'évaluation Git est en pause, étant donné les circonstances. La date de rendu est repoussée au lundi 23 février.
+PS: le rendu de l'évaluation Git est en pause, étant donné les circonstances.
 

@@ -44,3 +44,8 @@ Jeu d'interpétation:
 
 Durant le temps restant, votre mission est d'appliquer la fonte que vous avez choisie dans l'un de vos travaux web: le [jeu hypertexte](https://github.com/eracom-id491/Histoire-de-la-vie), ou votre site d'épicerie.
 
+---
+
+## Liens utiles
+
+- La [classification Vox-Atypi](https://fr.wikipedia.org/wiki/Classification_Vox-Atypi)
