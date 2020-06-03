@@ -33,4 +33,4 @@ Support de cours sur l'utilisation de Git: [https://cours-web.ch/git/](https://c
 - Jour 17 (10 juin) - CSS Bling
 - Jour 18 (17 juin) - CSS Animation
 - Semaine transversale (22-26 juin) - workshop avec [Elisa Larvego](http://www.vego.ch/), photographe 📷
-- Jour 19 - à définir
+- Jour 19 (1er juillet) - à définir (p.ex: finition des pages du workshop photo)
