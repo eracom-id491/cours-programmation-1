@@ -16,7 +16,9 @@
 - expérience: workshop FontForge
 - l'univers des fontes libres
 
-Quelques sources de fontes sous licence libre:
+### Sources de fontes
+
+Voici quelques sources de fontes sous licence libre:
 
 - https://fontlibrary.org - Open Font Library
   - Les fontes d'Alfredo Marco Pradil: https://fontlibrary.org/fr/member/hanken
