@@ -47,6 +47,11 @@ Durant le temps restant, votre mission est d'appliquer la fonte que vous avez ch
 
 ---
 
-## Liens utiles
+## Liens divers
 
+Voici quelques liens pour approfondir les sujets traités:
+
+- Helvetica, le documentaire de 2007 (en VOST): [https://vimeo.com/398281319](https://vimeo.com/398281319).
 - La [classification Vox-Atypi](https://fr.wikipedia.org/wiki/Classification_Vox-Atypi)
+- Les Rencontres typographiques de Lure, [le site web](https://www.delure.org/)
+- Le workshop de 2012, [quelques interviews vidéo](https://greyscalepress.com/2012/interviews/font-design-interviews/) que j'avais réalisées sur place.
