@@ -10,17 +10,19 @@ Ce cours sera consacré au "CSS Bling". Nous ferons le tour d'une série de prop
 
 ### 11h: Introduction portant sur: 
 
-- article sur A List Apart : [CSS3 Bling in the Real World](https://alistapart.com/article/css3-bling-in-the-real-world/)
+- article sur le blog A List Apart : [CSS3 Bling in the Real World](https://alistapart.com/article/css3-bling-in-the-real-world/) (2011)
 - petit mot sur [A Book Apart](https://abookapart.com/), la maison d'édition.
 - petit mot sur [Jeffrey Zeldman](https://twitter.com/zeldman), l'homme au bonnet bleu, actuellement en convalescence du Covid.
 
-### Les propriétés CSS Bling
+### Les propriétés "CSS Bling"
 
-Le principe: je vous attribuerai une propriété CSS à explorer. Vous devrez **produire un exemple**, afin de la montrer au reste de la classe. 
+**Le principe:** 
+- Vous recevez une **propriété CSS** à explorer. 
+- Vous produisez **un exemple** sur le site [codepen.io](https://codepen.io/pen/), afin de montrer ce qu'elle permet de faire. 
+- [Voici un point de départ](https://codepen.io/16kbit/pen/mdVeNeQ) que vous pouvez utiliser.
+- Une fois votre exemple créé, vous enregistrez **une petite vidéo**, en capture d'écran (maximum une minute) que vous publiez sur Youtube.
 
-Une fois votre exemple créé, vous ferez une petite vidéo, en capture d'écran (maximum une minute) que vous publierez sur Youtube.
-
-Voici les propriétés attribuées:
+Voici les propriétés CSS attribuées:
 
 1. Les bords arrondis: Nicole, Fabio, Benjamin
 2. Les dégradés (Gradients): Emma, William, Kyle
@@ -32,6 +34,11 @@ Voici les propriétés attribuées:
 Si vous avancez rapidement, vous pouvez poursuivre avec l'une de ces autres propriétés:
 7. Les modes de fondu (Blend Modes)
 8. Les filtres CSS
+
+## En fin de séance: 
+
+- Nous visionnons les différentes vidéos Youtube créées.
+- Nous 
 
 ---
 
