@@ -20,16 +20,16 @@ Ce cours sera consacré au "CSS Bling". Nous ferons le tour d'une série de prop
 - Vous recevez une **propriété CSS** à explorer. 
 - Vous produisez **un exemple** sur le site [codepen.io](https://codepen.io/pen/), afin de montrer ce qu'elle permet de faire. 
 - [Voici un point de départ](https://codepen.io/16kbit/pen/mdVeNeQ) que vous pouvez utiliser.
-- Une fois votre exemple créé, vous enregistrez **une petite vidéo**, en capture d'écran (maximum une minute) que vous publiez sur Youtube.
+- Une fois votre exemple créé, vous enregistrez **une petite vidéo**, en capture d'écran (maximum une minute) que vous publiez sur Youtube. Montrez ce qui se passe si on désactivé la propriété, si on change les valeurs...
 
 Voici les propriétés CSS attribuées:
 
-1. Les bords arrondis: Nicole, Fabio, Benjamin
-2. Les dégradés (Gradients): Emma, William, Kyle
-3. Les ombres portées sur des objets (box-shadow): Elisa, Noé, Lina
-4. Les ombres portées sur le texte: Anaïs, Bernardo, Daniel
-5. L'opacité, avec les valeurs de couleur RGBA: Yan, Oscar, Davide
-6. Appliquer plusieurs fonds à un élément: Théo, Jade, Valentin, Mathieu
+1. Les **bords arrondis**: Nicole, Fabio, Benjamin
+2. Les **dégradés** (Gradients): Emma, William, Kyle
+3. Les **ombres portées** sur des objets (box-shadow): Elisa, Noé, Lina
+4. Les **ombres portées** sur le texte: Anaïs, Bernardo, Daniel
+5. **L'opacité**, avec les valeurs de **couleur RGBA**: Yan, Oscar, Davide
+6. Appliquer **plusieurs fonds** (background) à un élément: Théo, Jade, Valentin, Mathieu
 
 Si vous avancez rapidement, vous pouvez poursuivre avec l'une de ces autres propriétés:
 7. Les modes de fondu (Blend Modes)
@@ -37,8 +37,8 @@ Si vous avancez rapidement, vous pouvez poursuivre avec l'une de ces autres prop
 
 ## En fin de séance: 
 
-- Nous visionnons les différentes vidéos Youtube créées.
-- Nous 
+- Nous regardons les différentes vidéos Youtube créées.
+- Nous les rassemblons dans une playlist.
 
 ---
 
