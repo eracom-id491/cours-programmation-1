@@ -30,7 +30,7 @@ Support de cours sur l'utilisation de Git: [https://cours-web.ch/git/](https://c
 - Jour 14 (20 mai) - Travail sur [l'aventure hypertexte](https://github.com/eracom-id491/Histoire-de-la-vie)
 - Jour 15 (27 mai) - Travail autour de WordPress
 - [Jour 16](J16-webfonts) (3 juin) - [Webfonts](J16-webfonts)
-- Jour 17 (10 juin) - CSS Bling
+- [Jour 17](J17-CSS-Bling) (10 juin) - [CSS Bling](J17-CSS-Bling)
 - Jour 18 (17 juin) - CSS Animation
 - Semaine transversale (22-26 juin) - workshop avec [Elisa Larvego](http://www.vego.ch/), photographe 📷
 - Jour 19 (1er juillet) - à définir (p.ex: finition des pages du workshop photo)
