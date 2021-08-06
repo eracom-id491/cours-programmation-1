@@ -1,4 +1,4 @@
-# Cours Programmation
+# Cours Programmation 1
 
 Références et infos pour le cours "Programmation 1".
 
